@@ -1,0 +1,11 @@
+# MediLens roadmap — improvement pass 2
+- [x] Logo (teal square, plus-in-circle, Medi/Lens, tagline)
+- [x] Nav as separate cards with icons, incl. Ask MediLens + Medical References
+- [x] Tamil/Hindi across whole UI + persistence, localized test names
+- [x] Clear, human doctor questions (+ refresh)
+- [x] Bold Discussion Summary with sub-cards
+- [x] Test knowledge dataset (MedlinePlus) + explanation sections A–H
+- [x] Clearer Why? wording
+- [x] Ask MediLens page
+- [x] Medical References page
+- [x] Test in browser (en/ta/hi, persistence, verify, compare)

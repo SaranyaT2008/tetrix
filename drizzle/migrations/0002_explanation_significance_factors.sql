@@ -1,0 +1,1 @@
+ALTER TABLE public.explanations ADD COLUMN IF NOT EXISTS possible_significance text, ADD COLUMN IF NOT EXISTS common_factors text; DELETE FROM public.explanations;
